@@ -1,9 +1,9 @@
  .header{
-    width:20vh;
+    width:fit-content;
     padding: .75rem 1.25rem;
     border-radius: 10rem;
     text-transform: uppercase;
-    font-size: 1rem;
+    font-size: 1srem;
     letter-spacing: .15rem;
     position: relative;
     background-color: #fff;

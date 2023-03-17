@@ -8,7 +8,7 @@
 }
 
 .btn-filter{
-  width:25vh;
+  /* width:25vh; */
   padding: .75rem 1.25rem;
   border-radius: 10rem;
   text-transform: uppercase;
@@ -64,6 +64,7 @@
 .btn-category-true
 {
   width:100%;
+  /* width:25vh; */
   height: 5vh;
   border-radius: 1rem;
   background-color:#023e8a;
