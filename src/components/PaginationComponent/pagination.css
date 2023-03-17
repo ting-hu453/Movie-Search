@@ -1,0 +1,29 @@
+.pagination
+{
+    margin-top: 5%;
+    display: flex;
+    justify-content:flex-end;
+    align-items: center;
+    gap:1%;
+}
+.pagination-page
+{
+    border:2px solid #023e8a;
+    background-color: #fff;
+    padding: .75rem 0.75rem;
+    border-radius: 5rem;
+    font-size: 1rem;
+}
+
+.pagination-page:hover, .pagination-page:active, .pagination-page:focus
+{
+    background-color: #023e8a;
+    color:white;
+    font-size: larger;
+    cursor: pointer;
+}
+
+.pagination-dots
+{
+    font-size: 1.5rem;
+}
